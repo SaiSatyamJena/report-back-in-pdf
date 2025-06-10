@@ -35,3 +35,5 @@
   ```
 .venv/Lib/site-packages/decorator.py
 .venv/Lib/site-packages/ipykernel_launcher.py
+.venv/Lib/site-packages/ipython_pygments_lexers.py
+.gitignore
