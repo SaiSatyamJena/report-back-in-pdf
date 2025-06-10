@@ -33,3 +33,5 @@
   *.sqlite3
   local_settings.py
   ```
+.venv/Lib/site-packages/decorator.py
+.venv/Lib/site-packages/ipykernel_launcher.py
