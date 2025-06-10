@@ -19,6 +19,7 @@
   # Secrets - VERY IMPORTANT
   .env
   *.env.*
+  *.env
   !*.env.example
 
   # Build artifacts
