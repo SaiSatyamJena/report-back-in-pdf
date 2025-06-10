@@ -1,0 +1,34 @@
+  ```gitignore
+  # Python
+  __pycache__/
+  *.py[cod]
+  *$py.class
+
+  # Virtual environment
+  .venv/
+  venv/
+  ENV/
+  env/
+  env.bak/
+  venv.bak/
+
+  # IDE specific files
+  .vscode/
+  .idea/
+
+  # Secrets - VERY IMPORTANT
+  .env
+  *.env.*
+  !*.env.example
+
+  # Build artifacts
+  dist/
+  build/
+  *.egg-info/
+
+  # Local files
+  *.pdf
+  *.log
+  *.sqlite3
+  local_settings.py
+  ```
