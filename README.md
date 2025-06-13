@@ -71,10 +71,10 @@ Get the AI PDF Report Generator up and running on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/report-back-in-pdf.git
+    git clone https://github.com/SaiSatyamJena/report-back-in-pdf.git
     cd report-back-in-pdf
     ```
-    *(Replace `YOUR_USERNAME` with your actual GitHub username)*
+   
 
 2.  **Create and Activate a Python Virtual Environment:**
     (This keeps project dependencies isolated)
